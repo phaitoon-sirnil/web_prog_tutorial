@@ -1,6 +1,3 @@
 <?php
 echo "Hello World สวัสดีชาวโลก";
-echo "Hello Thailand"
 ?>
-test
-edit-for #2
